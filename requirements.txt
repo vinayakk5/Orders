@@ -1,4 +1,3 @@
 Flask
 requests
-concurrent.futures
 python-dotenv
